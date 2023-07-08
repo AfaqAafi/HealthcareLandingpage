@@ -1,7 +1,5 @@
 
 # Healthcare Medical Landing page
-![screencapture-localhost-5173-2023-07-08-16_49_39](https://github.com/AfaqAafi/HealthcareLandingpage/assets/107768535/9277c6c7-ad83-469e-8416-4f65d0e49cf3)
-
 
 Its complete responsive landing. Using React and Tailwind css
 that provides quick medical services. It includes components such as a Button, Header, and Home. 
